@@ -68,7 +68,7 @@ Use this
 \| Syntax | Description |\
 \| ----------- | ----------- |\
 \| Header | Title |\
-\| Paragraph | Text |\
+\| Paragraph | Text |  
 
 to get this  
 
