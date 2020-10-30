@@ -10,20 +10,23 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Heading
 
+*Use these* 
+
 \# H1\
 \## H2\
 \### H3  
 
+*to get these*  
 # H1 
 ## H2   
 ### H3  
 
 ### Bold
-\**bold text**\
+\*\*bold tex\t*\*\
 **bold text**
 
 ### Italic
-\*italicized text*\
+\\*italicized text*\
 *italicized text*
 
 ### Blockquote
