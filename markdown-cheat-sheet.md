@@ -22,11 +22,12 @@ These are the elements outlined in John Gruber’s original design document. All
 ### H3  
 
 ### Bold
-\*\*bold tex\t*\*\
+\*\*bold text*\*\
 **bold text**
 
 ### Italic
-\\*italicized text*\
+\\*italicized text*
+
 *italicized text*
 
 ### Blockquote
