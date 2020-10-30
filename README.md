@@ -5,5 +5,4 @@ Let's seen how it goes ...
 
 <b>Voila!</b>
 
-Does this give me a link to my modifed markdown cheatsheet ?
-<a href="https://github.com/JCDeen/jcdeen.github.io/edit/main/README.md">markdown cheatsheet</a>
+<a href="https://github.com/JCDeen/jcdeen.github.io/blob/main/markdown-cheat-sheet.md">markdown cheatsheet</a>
