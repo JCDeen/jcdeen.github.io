@@ -59,20 +59,19 @@ These are the elements outlined in John Gruber’s original design document. All
 These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
 
 ### Table
-Use this
+Use this  
 
-&nbsp;\| Syntax | Description |\
-&nbsp;\| ----------- | ----------- |\
-&nbsp;\| Header | Title |\
-&nbsp;\| Paragraph | Text |\
+\| Syntax | Description |\
+\| ----------- | ----------- |\
+\| Header | Title |\
+\| Paragraph | Text |\
 
-to get this
+to get this  
 
-&nbsp;| Syntax | Description |
-&nbsp;| ----------- | ----------- |
-&nbsp;| Header | Title |
-&nbsp;| Paragraph | Text |
-
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |  
 
 ### Fenced Code Block
 
