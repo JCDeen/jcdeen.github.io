@@ -110,6 +110,10 @@ to get this
 
 ### Task List
 
+\- [x] Write the press release
+\- [ ] Update the website
+\- [ ] Contact the media  
+
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
