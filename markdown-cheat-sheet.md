@@ -26,7 +26,7 @@ These are the elements outlined in John Gruber’s original design document. All
 **bold text**
 
 ### Italic
-\\*\italicized text\*  
+\\*italicized text*  
 
 *italicized text*
 
