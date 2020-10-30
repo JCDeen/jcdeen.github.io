@@ -5,4 +5,4 @@ Let's seen how it goes ...
 
 <b>Voila!</b>
 
-<a href="https://github.com/JCDeen/jcdeen.github.io/blob/main/markdown-cheat-sheet.md">markdown cheatsheet</a>
+<a href="https://jcdeen.github.com/markdown-cheat-sheet.md">markdown cheatsheet</a>
