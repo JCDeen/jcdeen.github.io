@@ -103,9 +103,9 @@ term
 : definition
 
 ### Strikethrough
-Use this
-\~~The world is flat.~~
-to get this
+Use this  
+\~~The world is flat.~~  
+to get this  
 ~~The world is flat.~~
 
 ### Task List
