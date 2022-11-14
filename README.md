@@ -21,6 +21,6 @@ How HTML-ish is MD these days ?<br />
 
 <b>ToDo:</b>  build menu for rest of repositories here
 
-<br />Served locally (on github.io) this finds my externally hosted site.
+<br />Served locally (on github.io) this finds my externally hosted site.<br />
 When I use the URL jcdeen.github.io we get a 404 error.
 <a href="http://www.chrisdeen.com">chrisdeen.com</a>
