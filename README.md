@@ -21,4 +21,4 @@ How HTML-ish is MD these days ?<br />
 
 <b>ToDo:</b>  build menu for rest of repositories here
 
-<a href="www.chrisdeen.com">chrisdeen.com</a>
+<a href="http://www.chrisdeen.com">chrisdeen.com</a>
