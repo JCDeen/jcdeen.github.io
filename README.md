@@ -5,7 +5,7 @@ Let's seen how it goes ...
 
 <b>Voila!</b>
 
-<a href="https://jcdeen.github.com/markdown-cheat-sheet.md">markdown cheatsheet</a>
+<a href="markdown-cheat-sheet.md">markdown cheatsheet</a>
 
 <a href="https://jcdeen.github.com/Ax12ShoulderDemo/blob/master/Read_Write.cpp"> 
   Read_Write.cpp link test
